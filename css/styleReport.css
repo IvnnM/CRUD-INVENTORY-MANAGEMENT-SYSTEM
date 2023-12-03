@@ -1,0 +1,13 @@
+body{
+  background-color: #fdb49f; 
+  }
+  .container-fluid{
+  background-color: #e13d01;
+  color: #fed9cf;
+  }
+  .container-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Make the image cover the entire container */
+    display: block;
+  }
